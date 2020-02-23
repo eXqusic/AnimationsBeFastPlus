@@ -3,7 +3,7 @@
 
 AnimationsBeFastPlus (ABFP) alllows you to speed up all different animations on your iDevice with ease!
 
-Requires PreferenceLoader (2.2.4) and Applist 1.5.15~beta1 from [Ryan Petrich's Repo](rpetri.ch/repo "Ryan Petrich's Repo") ,
+Requires PreferenceLoader (2.2.4) and Applist 1.5.15~beta1 from [Ryan Petrich's Repo](https://rpetri.ch/repo)
 
 Supports iOS 11,12,13+
 
