@@ -19,6 +19,9 @@ Description of what you expected to happen.
 **Screenshots/Video**
 If applicable, add screenshots or video to help explain your problem.
 
+**Crash log**
+If applicable, upload crash log from Cr4shed to pastebin.com and provide link.
+
 **iDevice Information (Must include information below!):
  - Device: 
  - iOS Version: 
